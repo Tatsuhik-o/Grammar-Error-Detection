@@ -2,6 +2,7 @@
 Python Script that detects grammatical error within an essay.
 
 Please follow these steps:
+* Make a TXT file called "essay.txt" and put your essay in it (FILE HAS TO BE IN THE SAME DIRECTORY AS THE SCRIPT).
 
 * RapidAPI Account: Make sure you have a RapidAPI account. If you don't have an account, you can sign up for free at https://rapidapi.com/signup.
 
